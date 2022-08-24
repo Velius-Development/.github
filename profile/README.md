@@ -11,11 +11,10 @@ EN (Google translated): [Read on Google Docs](https://docs.google.com/document/d
 The authing system that has been developed offers a user friendly UI client called "MysteryMaker" to create interactive fiction. For that it uses json files and a custom framework for the game engine [Godot](https://github.com/godotengine/godot). Additionally, its theming system allows a lot of freedom not only on modifing the appearance but also the interactions.
 
 ## Table of Contents
-<code>
+
 
 > **[Seminar Paper](https://github.com/Velius-Development/SeminarPaper)**<br>
 > All about the seminar paper
-
 
 > **[Velius Framework Documentation](https://github.com/Velius-Development/VeliusDocs)**<br>
 > Guide on how to use the Velius Engine developer tools, <br>
@@ -23,12 +22,12 @@ The authing system that has been developed offers a user friendly UI client call
 > documentation, and a download page with changelog. <br>
 > Automatically deployed on [velius.dev](https://velius.dev/)
 
+> **[Velius Engine](https://github.com/Velius-Development/VeliusEngine)**<br>
+> Framework built in Godot to run MysteryMaker games.
+
 > **[VeliusSDK](https://github.com/Velius-Development/VeliusSDK)**<br>
 > Automatically generated developer SDK for developing themes.<br>
 > Online reference available on [velius.dev/reference](https://velius.dev/reference)
-
-> **[Velius Engine](https://github.com/Velius-Development/VeliusEngine)**<br>
-> Framework built in Godot to run MysteryMaker games.
 
 > **[Cards Theme](https://github.com/Velius-Development/Cards-Theme)**<br>
 > Highly polished theme for the Velius Engine.<br>
@@ -38,4 +37,3 @@ The authing system that has been developed offers a user friendly UI client call
 > Minimalistic theme for the Velius Engine.<br>
 > Can be used as a learning resource on how to create themes.
 
-</code>
