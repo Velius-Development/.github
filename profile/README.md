@@ -8,7 +8,7 @@ DE (original): [Read on Google Docs](https://docs.google.com/document/d/1V_xAOBr
 EN (Google translated): [Read on Google Docs](https://docs.google.com/document/d/1Q4Q3G1BQrddKZUu3_WuWB3rwWWrGZ_miZOfCjSQ-cQc/edit?usp=sharing)
 
 ## The authoring system
-The authing system that has been developed offers a user friendly UI client called "MysteryMaker" to create interactive fiction. For that it uses json files and a custom framework for the game engine [Godot](https://github.com/godotengine/godot). Additionally, its theming system allows a lot of freedom not only on modifing the appearance but also the interactions.
+The authoring system that has been developed offers a user friendly UI client called "MysteryMaker" to create interactive fiction. For that it uses json files and a custom framework for the game engine [Godot](https://github.com/godotengine/godot). Additionally, its theming system allows a lot of freedom not only on modifing the appearance but also the interactions.
 
 ## Table of Contents
 
